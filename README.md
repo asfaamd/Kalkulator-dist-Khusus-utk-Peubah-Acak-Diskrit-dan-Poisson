@@ -1,0 +1,1 @@
+# Kalkulator-dist-Khusus-utk-Peubah-Acak-Diskrit-dan-Poisson
